@@ -44,8 +44,8 @@ To take this project further, consider:
 - ⏳ **Session Timeout**: Improve security by adding session expiration and renewal features.
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/041658b6-36db-4b77-b5e2-0a0df33d4707)
 
-*(Add screenshots of your project here)*
 
 ## 🌍 Hosting Options
 
