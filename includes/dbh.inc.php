@@ -2,8 +2,8 @@
 
 // variables for the connection to the database
 $serverName = "localhost";
-$dBUserName = "myuser";
-$dBPassword = "mypassword";
+$dBUserName = "$$$$$$$$$$$";
+$dBPassword = "$$$$$$$$$$$";
 $dBName = "myfirstdatabase";
 
 // try catch block for connecting to the database
